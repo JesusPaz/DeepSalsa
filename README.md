@@ -1,1 +1,2 @@
 # DeepSalsa
+This repository contains the data extracted from human anotations of pulse in different salsa music songs. Each song has every pulse anotated as a time value in msecs and each song has been annotated by three different expert subjects. We have developed a methodology to derive a single annnotation from the three subjects. The aim of this repository is to use deep learning-based algorithms tailored down to make automatic beat detection in salsa music.
